@@ -34,6 +34,44 @@ div army{
 .qwe h1
 {
 color: red;
+}
+.qwe h2{
+    color: mediumseagreen;
+    padding-right: 20cm;
+    co
+}
+.abc{
+    color: darkcyan;
 
+}
+.abc u{
+    color: mediumblue;
+text-decoration:underline;
+padding-top: 5cm;
+}
+.RTY h2{
+    color: coral;
+}
+.RTY h1{
+    text-decoration: underline;
+    padding-top: 2cm;
+}
+.abc ul{
+   text-decoration-line: underline;
+}
+.about{
+    text-decoration-line: underline;
+    padding-top: 5cm;
+    padding-left: 15cm;
+}
+.about p{
+    text-align: center;
+}
+.A{
+    width: 50px;
+}
 
+.form-control {
+    width: 300px;
+    margin: 5px;
 }
